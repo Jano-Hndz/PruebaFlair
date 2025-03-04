@@ -26,10 +26,10 @@ Este proyecto simula la propagación de una infección (zombies) dentro de un ed
 - **Salir**: Finaliza la simulación.
 
 ## Cómo Ejecutar
-1. Guarda el código en un archivo `simulacion.py`.
+1. Guarda el código en un archivo `zombie_simulation.py`.
 2. Ejecuta el siguiente comando en la terminal:
    ```sh
-   python simulacion.py
+   python zombie_simulation.py
    ```
 3. Sigue las opciones del menú para interactuar con la simulación.
 
